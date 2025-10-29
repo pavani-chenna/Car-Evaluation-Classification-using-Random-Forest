@@ -132,7 +132,7 @@ Chenna Pavani
 Data Science & Machine Learning Enthusiast
 
 🌐 LinkedIn
-✉ [Add your email here]
+www.linkedin.com/in/pavani-chenna
 
 
 ---
@@ -142,11 +142,6 @@ Data Science & Machine Learning Enthusiast
 # Clone the repository
 git clone https://github.com/yourusername/car-evaluation-classification.git  
 
-# Navigate to project directory
-cd car-evaluation-classification  
-
-# Install dependencies
-pip install -r requirements.txt  
 
 # Run the notebook
 jupyter notebook car_evaluation.ipynb
@@ -162,6 +157,3 @@ Among all features, Safety was identified as the most critical factor influencin
 
 ---
 
----
-
-Would you like me to also create a short **requirements.txt** file (so it runs easily when cloned)?
