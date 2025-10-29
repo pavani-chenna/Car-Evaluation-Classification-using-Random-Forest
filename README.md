@@ -140,11 +140,11 @@ www.linkedin.com/in/pavani-chenna
 ⭐ How to Run the Project
 
 # Clone the repository
-git clone https://github.com/yourusername/car-evaluation-classification.git  
+https://github.com/pavani-chenna/Car-Evaluation-Classification-using-Random-Forest  
 
 
-# Run the notebook
-jupyter notebook car_evaluation.ipynb
+# Run the colab notebook
+https://colab.research.google.com/drive/128NqnwIzZh9mcUHqeRrATNZ6Tn4f6E8s#scrollTo=4oUM-ah-SodS
 
 
 ---
